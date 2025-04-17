@@ -1,10 +1,10 @@
 <?php
 // Configurações do banco de dados (substitua pelos seus próprios dados)
-$host = "177.126.159.93";
 $port = "5432";
-$dbname = "zabbix";
-$user = "zabbix";
-$password = "zabbix";
+$host = "127.0.0.1";
+$dbname = "infinity";
+$user = "user";
+$password = "infPassrootDB991837";
 
 // Tenta criar uma conexão PDO
 try {

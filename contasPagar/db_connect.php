@@ -1,8 +1,8 @@
 <?php
-$host = "177.126.159.93";
-$username = "zabbix";
-$passwd = "zabbix";
-$database = "zabbix";
+$host = "127.0.0.1";
+$dbname = "infinity";
+$user = "user";
+$password = "infPassrootDB991837";
 
 // Cria uma conexão
 $conn = new mysqli($host, $username, $passwd, $database);

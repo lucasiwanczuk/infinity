@@ -1,9 +1,9 @@
 <?php
 // Substitua as credenciais do banco de dados pelas suas
-$host = '177.126.159.93';
-$dbname = 'zabbix';
-$username = 'zabbix';
-$passwd = 'zabbix';
+$host = "127.0.0.1";
+$dbname = "infinity";
+$user = "user";
+$password = "infPassrootDB991837";
 
 try {
     // Conecte-se ao banco de dados usando PDO

@@ -1,9 +1,9 @@
 <?php
 // Conectar ao banco de dados (substitua com suas configurações)
-$host = "177.126.159.93";
-$dbname = "zabbix";
-$user = "zabbix";
-$password = "zabbix";
+$host = "127.0.0.1";
+$dbname = "infinity";
+$user = "user";
+$password = "infPassrootDB991837";
 
 try {
     $conn = new PDO("pgsql:host=$host;dbname=$dbname;user=$user;password=$password");
