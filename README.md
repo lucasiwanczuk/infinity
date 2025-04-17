@@ -5,7 +5,7 @@ Sistema financeiro para controle de contas a pagar e a receber, com visualiza√ß√
 
 ---
 
-<img src="https://raw.githubusercontent.com/seu-usuario/infinity-planner/main/screenshots/dashboard-preview.png" alt="Preview do Sistema" style="width:100%; border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/seu-usuario/infinity/main/sistema.png" alt="Preview do Sistema" style="width:100%; border-radius: 8px;" />
 
 ---
 
